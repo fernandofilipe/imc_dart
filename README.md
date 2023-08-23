@@ -1,7 +1,5 @@
-# Fernando Reis
-
-## 🎉🎉 **Bootcamp Santander 2023**
-## 🎯🎯 Desafio: Calculadora IMC - Dart v1.0
+# 🎯🎯 Desafio: Calculadora IMC - Dart v1.0
+## 🎉🎉 **Bootcamp Santander 2023 - Fernando Reis**
 
 <img src="https://imgur.com/Su998MI.png" alt="octocat" width="200" height="200">
 
